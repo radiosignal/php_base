@@ -1,0 +1,1 @@
+<h1>About us! our phone: <?=$content?></h1><br>
